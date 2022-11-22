@@ -11,5 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "canvas-sketch": "^0.7.6"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
   }
 }
