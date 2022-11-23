@@ -1,10 +1,10 @@
 {
-  "name": "projeto-03",
+  "name": "projeto-01",
   "version": "1.0.0",
   "description": "",
-  "main": "sketch-03.js",
+  "main": "sketch-01.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node-sass sass/main.scss  css/style.css -w"
   },
   "keywords": [],
   "author": "",
